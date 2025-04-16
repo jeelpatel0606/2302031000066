@@ -1,0 +1,96 @@
+.bg {
+    background-color: #d8d8d8;
+}
+
+.bg1 {
+    position: absolute;
+    margin-left: 220px;
+    margin-top: -110px;
+}
+
+.b3 {
+    width: -webkit-fill-available;
+}
+
+.b1 {
+    background-color: #3b3434;
+    border: 0px;
+    border-radius: 15px;
+    color: white;
+}
+
+.b2 {
+    background-color: #030000;
+    border: 0px;
+    border-radius: 15px;
+    color: white;
+}
+
+.bg1 {
+    background-image: url('bg.jpg');
+}
+
+.l {border:5px solid black;
+    padding:15px;
+    background-color:#d8d8d8;
+    margin: auto;
+    margin-top: -135px;
+    }
+
+#l3 {
+    color: white;
+    background-color: blue;
+    border: 0px;
+    border-radius: 4px;
+    padding: 10;
+    width: 100px;
+}
+
+#l4 {
+    color: white;
+    background-color: black;
+    margin-right: 185px;
+    padding: 3px;
+    text-align: center;
+    font-style: italic;
+    font-family: ui-monospace;
+}
+
+#l5 {
+    height: 30px;
+}
+
+.r1 {
+    margin-left: -365px;
+    padding: 10px;
+    width: 350;
+}
+
+.c1 {
+    height: 272px;
+    margin-left: 84px;
+    margin-top: -11px;
+}
+
+.c2 {
+    text-align: center;
+    width: 317px;
+    margin-left: 1020px;
+}
+
+#c2 {
+    margin-top: -263px;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+
+.a1 {
+    display: inline-block;
+    font-size: xx-large;
+    color: black;
+    margin-left: 15px;
+}
+
+.bg2 {
+    margin-top: -37px;
+}
